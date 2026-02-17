@@ -6,13 +6,13 @@ My portfolio ([wadi3.codes](https://wadi3.codes?utm_source=github-profile)) show
 
 ---
 
-### [Selected Projects]
+### [ Selected Projects ]
 
 [AtlasLingua](https://github.com/EL-OUARDY/atlasLingua) | [TintAI](https://github.com/EL-OUARDY/tint-ai) | [AuthFlow](https://github.com/EL-OUARDY/auth-ui) | [Wordle Game](https://github.com/EL-OUARDY/wordle-game) | [Marwa](https://github.com/EL-OUARDY/marwa) | [CodeFocus](https://github.com/EL-OUARDY/alx-holberton-intranet-themes) | [Maison Lumiere](https://github.com/EL-OUARDY/maison-lumiere)
 
 ---
 
-### [Academic & Learning Projects]
+### [ Academic & Learning Projects ]
 
 [AirBnB clone](https://github.com/EL-OUARDY/AirBnB_clone) |
 [Simple shell](https://github.com/EL-OUARDY/simple_shell) |
@@ -30,12 +30,12 @@ My portfolio ([wadi3.codes](https://wadi3.codes?utm_source=github-profile)) show
 
 ---
 
-### [Data Structures and Algorithms]
+### [ Data Structures and Algorithms ]
 
 [Low Level Programming](https://github.com/EL-OUARDY/alx-low_level_programming) | [Higher Level Programming (Python)](https://github.com/EL-OUARDY/alx-higher_level_programming) | [Sorting algorithms](https://github.com/EL-OUARDY/sorting_algorithms)
 
 ---
 
-### [DevOps]
+### [ DevOps ]
 
 [System Engineering DevOps](https://github.com/EL-OUARDY/alx-system_engineering-devops)
